@@ -1,11 +1,17 @@
+
+.text-intro {
+    font-size: 20px;
+}
+
+.card{
+    width: 100%;
+  
 .custom-control-label::before {
     background-color: #dee2e6;
 }
+  
 .bodywidth {
     max-width: 950px;
 }
-
-
-
 
 
